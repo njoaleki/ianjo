@@ -1,3 +1,53 @@
+h1{
+    color:blue;
+    text-decoration-line: underline;
+}
+
 p{
     color: rgb(255, 20, 20);
 }
+
+li{
+    font-size: 20px;
+}
+h1{
+    font-size: 30px;
+}
+h2{
+    text-decoration-line:underline ;
+}
+h3{
+
+    text-decoration-line:underline ;
+}
+h5{
+    font-size: 25px;
+text-decoration-line: underline;
+}
+
+h6{
+    font-size: 20px;
+    text-decoration-line: underline;
+}
+
+@keyframes example {
+    from {background-color: red;}
+    to {background-color: yellow;}
+  }
+  
+ul{
+    background-color: orange;
+    animation-name: example;
+    animation-duration: 4s;
+}
+
+ol{
+    border-style: double;
+
+}
+
+img{
+    opacity: 1.0;
+}
+
+
