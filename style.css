@@ -1,0 +1,11 @@
+.hirro{
+    text-align: center;
+}
+
+.images{
+    display: flex;
+    gap:20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
